@@ -1,0 +1,10 @@
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+h1{
+    margin-top: 25%;
+}
+.github{
+    margin-top: 10%;
+}
